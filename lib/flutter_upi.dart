@@ -8,6 +8,7 @@ class FlutterUpiApps {
   static const String GooglePay = "com.google.android.apps.nbu.paisa.user";
   static const String BHIMUPI = "in.org.npci.upiapp";
   static const String PHONEPE = "com.phonepe.app";
+  static const String MiPay = "com.mipay.wallet.in";
 }
 
 class FlutterUpiResponse {
